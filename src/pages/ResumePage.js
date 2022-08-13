@@ -81,7 +81,7 @@ export default function ResumePage() {
     setformData({
       fullname: "Abhilash",
       email: "abc@gmail.com",
-      phone: "8197533548",
+      phone: "987654321",
       languages: ["Enlgish", "Hindi", "Tulu", "Kannada"],
       professionalsummary:
         "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
@@ -92,7 +92,7 @@ export default function ResumePage() {
       projectdetails: [
         {
           cname: "Mindtree",
-          pname: "Ametek",
+          pname: "Loreal",
           psummary:
             "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
           id: 96234114425798780,
